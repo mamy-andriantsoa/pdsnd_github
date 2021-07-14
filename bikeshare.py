@@ -4,8 +4,6 @@ import numpy as np
 
 
 
-#Variable
-
 
 #Resolving merge conflict
 #This is a project 2 on udacity
@@ -60,7 +58,9 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+
 #Load data, add comment to make code more understandable
+
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
@@ -99,7 +99,9 @@ def load_data(city, month, day):
 
     return df
 
+
 #Question one in the project
+
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
@@ -127,6 +129,7 @@ def time_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+
 
 
 def station_stats(df):
@@ -170,6 +173,7 @@ def trip_duration_stats(df):
     print('-'*40)
 
 
+
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
@@ -194,6 +198,7 @@ def user_stats(df):
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
+
 
 
 def main():

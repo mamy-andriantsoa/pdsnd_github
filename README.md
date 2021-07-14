@@ -3,33 +3,42 @@
 ### Date created
 
 ## resolve merge conflict
+
 July 13, 2021
 
 ### Project Title
+
 git project
 
 ### Description
+
 git project from audacity
 
 ### Files used
+
 bikeshare.py
 
 ### Credits
+
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 At least 2 changes by Mamy Andriantsoa
 =======
 July 14, 2021
 
 ### Project Title
+
 Git project on refactoring branch
 
 ### Description
+
 Make change in this file under the refactoring branch
 
 ### Files used
+
 README.md AND bikeshare.py
 
 ### Credits
+
 ccreating refactoring branch and make a least 2 changes
 
 ## resolve merge conflict
