@@ -8,7 +8,7 @@ July 13, 2021
 July 14, 2021 : Updating README file after reviewing
 
 ### Project Title
-<<<<<<< HEAD
+
 
 git project
 
@@ -27,7 +27,6 @@ git project from audacity on documentation branch
 
 ### Files used
 README.md
->>>>>>> documentation
 
 ### Credits
 
