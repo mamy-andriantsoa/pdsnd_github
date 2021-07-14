@@ -1,7 +1,7 @@
 import time
 import pandas as pd
 import numpy as np
-
+#This is a project 2 on udacity
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
@@ -91,7 +91,7 @@ def load_data(city, month, day):
 
     return df
 
-
+#Question one in the project
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
