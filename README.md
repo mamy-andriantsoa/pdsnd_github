@@ -2,15 +2,16 @@
 
 ### Date created
 July 13, 2021
+July 14, 2021 : Updating README file after reviewing
 
 ### Project Title
-git project
+Make change under documentation branch
 
 ### Description
-git project from audacity
+git project from audacity on documentation branch
 
 ### Files used
-bikeshare.py
+README.md
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
